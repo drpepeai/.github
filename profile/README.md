@@ -12,7 +12,7 @@
 
 ## 🌍 README Translations
 
-[List of translations to be added]
+한국어 | 日本語 | 中文
 
 ## 🚩 Overview
 
