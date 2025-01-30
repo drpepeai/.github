@@ -6,7 +6,7 @@
 
 <div align="center">
 
-📑 [White Paper on Immortality](https://drpepeai.ar-io.dev/) |  📖 [Documentation](https://docs.drpepe.ai) | 👨 [Human Agent](https://docs.drpepe.ai)) | 🐶 [Dog Agent](https://dog.drpepe.ai)
+📑 [White Paper on Immortality](https://drpepeai.ar-io.dev/) |  📖 [Documentation](https://docs.drpepe.ai) | 👨 [Human Agent](https://docs.drpepe.ai) | 🐶 [Dog Agent](https://dog.drpepe.ai)
 
 </div>
 
