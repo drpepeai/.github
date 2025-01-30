@@ -1,7 +1,7 @@
 # DrPepe.ai 🤖
 
 <div align="center">
-  <img src="https://github.com/drpepeai/.github/blob/main/DrPepe.ai%20Banner/Webstie%20Landing%20Page.jpeg" alt="DrPepea.ai Banner" width="100%" />
+  <img src="https://github.com/drpepeai/.github/blob/main/DrPepe.ai%20Banner/Webstie%20Landing%20Page.jpg" alt="DrPepea.ai Banner" width="100%" />
 </div>
 
 <div align="center">
