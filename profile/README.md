@@ -12,7 +12,7 @@
 
 ## 🌍 README Translations
 
-한국어 | 日本語 | 中文
+[한국어](https://github.com/drpepeai/.github/blob/main/%ED%95%9C%EA%B5%AD%EC%96%B4.md) | [日本語](https://github.com/drpepeai/.github/blob/main/%E6%97%A5%E6%9C%AC%E8%AA%9E.md) | [中文](https://github.com/drpepeai/.github/blob/main/%E4%B8%AD%E6%96%87.md)
 
 ## 🚩 Overview
 
