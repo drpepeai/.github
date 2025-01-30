@@ -16,7 +16,7 @@
 
 ## 🚩 Overview
 
-DrPepe.ai is an AI framework designed to help you live forever. By leveraging a peer-reviewed database focused on anti-agin research, DrPepe.ai provides personalized insights to help individuals maximize their lifespan and potentially achieve immortality.
+DrPepe.ai is an AI framework designed to help you live forever. By leveraging a massive, peer-reviewed database focused on anti-aging research, DrPepe.ai provides personalized insights to help individuals maximize their lifespan and achieve immortality.
 
 ## ✨ Features
 
